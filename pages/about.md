@@ -7,8 +7,10 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}**,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Hi ! I am **{{ site.author.name }}**.<br>
+I like music, movies, sports and reading.<br>
+My character is slow and hot, but I can quickly adapt to a strange environment. In front of an acquaintance, I am a person who loves to talk and likes to make jokes.<br>
+I am looking forward to being friends with you!
 
 <div class="row">
 {% include skills.html title="Programming Skills" source=site.data.programming-skills %}
