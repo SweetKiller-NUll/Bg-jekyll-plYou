@@ -1,5 +1,5 @@
 # Site settings
-title: inger
+title: Disturnbance
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome everyone!
 baseurl: "/Bg-jekyll-plYou" # the subpath of your site, e.g. /blog
@@ -20,7 +20,7 @@ author:
   github: ingersollms
   # twitter: ingersollms
   # linkedin: ingersollms
-  # facebook: ingersollms
+  facebook: sollm.inger.5
 
 # Collections
 collections:
