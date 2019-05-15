@@ -8,4 +8,4 @@ This is a light and beautiful blog simple.
     <i>A beautiful portfolio Jekyll theme that works with GitHub Pages.</i><br><br>
 </div>
 
-[![screenshots](https://github.com/ingersollms/Bg-jekyll-plYou/blob/master/_docs/index.png)](https://ingersollms.github.io/Bg-jekyll-plYou)
+[![screenshots](https://github.com/ingersollms/Bg-jekyll-plYou/blob/master/docs/index.png)](https://ingersollms.github.io/Bg-jekyll-plYou)
